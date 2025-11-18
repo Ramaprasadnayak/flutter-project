@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934357872136",
+    "project_id": "chatterbro-2e515",
+    "storage_bucket": "chatterbro-2e515.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934357872136:android:0cf089ea317995b3e7ebbd",
+        "android_client_info": {
+          "package_name": "com.example.chatterbro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnBA-KIygJzrxfJYT3Oh9t5qA951-39Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
